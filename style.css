@@ -1,0 +1,20 @@
+body{
+    height: 720px;
+    background-image: linear-gradient(to top right,rgb(255, 57, 90), white);
+}
+.satu{
+    width: 400px;
+    height: 250px;
+    margin: 0 auto;   
+}
+.dua{
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+}
+.satu{
+    background-image: linear-gradient(blue,white );
+}
+.dua{
+    background-image: linear-gradient(to left, white, blue 75%, white );
+}
